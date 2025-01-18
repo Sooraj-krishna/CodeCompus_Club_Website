@@ -8,11 +8,11 @@ const Gallery = () => {
   const [direction, setDirection] = useState(0);
 
   const Imgs = [
-    { id: 1, img: "/images/cake.jpeg" },
-    { id: 2, img: "/images/pancake.jpeg" },
-    { id: 3, img: "/images/pizza.jpeg" },
-    { id: 4, img: "/images/meatball.jpeg" },
-    { id: 5, img: "/images/burger.jpeg" },
+    { id: 1, img: "/AI.jpeg" },
+    { id: 2, img: "/AI.jpeg" },
+    { id: 3, img: "/AI.jpeg" },
+    { id: 4, img: "/AI.jpeg" },
+    { id: 5, img: "/AI.jpeg" },
   ];
 
   const nextSlide = () => {

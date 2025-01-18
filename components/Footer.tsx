@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const Footer = () => {
   return (
@@ -8,11 +9,11 @@ const Footer = () => {
         <div className="flex flex-col gap-4 md:items-start items-center">
           <div className="text-white font-bold text-2xl md:text-[26px]">Logo</div>
           <div className="flex flex-wrap gap-4 lg:gap-10 text-white text-sm lg:text-base">
-            <a href="/" className="hover:underline">Home</a>
-            <a href="/" className="hover:underline">Contact Us</a>
-            <a href="/" className="hover:underline">Repeto</a>
-            <a href="/" className="hover:underline">Whatsapp</a>
-            <a href="/" className="hover:underline">LinkedIn</a>
+            <Link href="/" className="hover:underline">Home</Link>
+            <Link href="/" className="hover:underline">Contact Us</Link>
+            <Link href="/" className="hover:underline">Repeto</Link>
+            <Link href="/" className="hover:underline">Whatsapp</Link>
+            <Link href="/" className="hover:underline">LinkedIn</Link>
           </div>
         </div>
 
@@ -39,9 +40,9 @@ const Footer = () => {
       {/* Footer Bottom */}
       <div className="pt-6 md:pt-10 w-full flex flex-col md:flex-row md:justify-between text-white gap-6 md:gap-0 items-center">
         <div className="flex flex-wrap gap-4 md:gap-10 text-sm lg:text-base">
-          <a href="/" className="underline">Privacy Policy</a>
-          <a href="/" className="underline">Terms of Service</a>
-          <a href="/" className="underline">Cookies Settings</a>
+          <Link href="/" className="underline">Privacy Policy</Link>
+          <Link href="/" className="underline">Terms of Service</Link>
+          <Link href="/" className="underline">Cookies Settings</Link>
         </div>
         <div className="text-sm lg:text-base">@2024 Code Compass. All rights reserved</div>
       </div>

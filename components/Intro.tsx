@@ -1,5 +1,5 @@
 import React from "react";
-
+import Link from "next/link";
 const Intro = () => {
   return (
     <div className=" relative flex flex-col lg:flex-row md:h-[450px]  bg-[#27272A] lg:overflow-hidden ">
@@ -13,9 +13,11 @@ const Intro = () => {
           will help you gain all these information at your fingertip.
         </p>
         <button className="z-30">
+        <Link href="/repeto">
           <div className="w-[137px] h-[45px]  bg-[#ffffff] lg:mt-12 rounded-xl text-black font-davidLibre flex justify-center items-center text-[18.5px] hover:text-white hover:bg-black font-medium drop-shadow-lg">
-            Repeto
+          Repeto
           </div>
+        </Link>
         </button>
       </div>
       <div className="md:w-[200px] md:h-[430.32px] w-[170px] h-[370px] bg-gradient-to-t to-[#2CB1CF] from-[#1D7589] shadow-2xl shadow-black z-20 absolute md:top-[155.85px] top-[130px] left-[50px] md:left-[221.03px] transform transition-all duration-300 -rotate-[36.17deg] "></div>

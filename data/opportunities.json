@@ -1,0 +1,256 @@
+{
+  "opportunities": [
+    {
+      "id": "1",
+      "title": "Reliance Foundation Scholarship",
+      "type": "Scholarship",
+      "department": ["CSE", "IT", "ECE"],
+      "courseLevel": ["UG"],
+      "exclusive": "All",
+      "year": ["2nd year"],
+      "lastDateToApply": "2025-06-10",
+      "stipend": "6 Lakhs",
+      "eligibility": "2nd Years Only",
+      "description": "The Reliance Foundation Scholarship program aims to support meritorious students in pursuing their higher education in technology and engineering fields.",
+      "requirements": [
+        "Minimum CGPA of 8.0",
+        "No active backlogs",
+        "Family income below 8 lakhs per annum"
+      ],
+      "applicationLink": "https://reliancefoundation.org/scholarship",
+      "category": "Latest",
+      "postedDate": "2024-01-15"
+    },
+    {
+      "id": "2",
+      "title": "Google Summer Internship",
+      "type": "Internship",
+      "department": ["CSE", "IT"],
+      "courseLevel": ["UG"],
+      "exclusive": "All",
+      "year": ["3rd year", "4th year"],
+      "lastDateToApply": "2025-02-28",
+      "stipend": "1.5 Lakhs per month",
+      "eligibility": "3rd & 4th Years",
+      "description": "Summer internship opportunity at Google focusing on software development and engineering practices.",
+      "requirements": [
+        "Strong programming skills in any language",
+        "Data Structures and Algorithms",
+        "Minimum CGPA of 7.5"
+      ],
+      "applicationLink": "https://careers.google.com/students",
+      "category": "Popular",
+      "postedDate": "2024-01-10"
+    },
+    {
+      "id": "3",
+      "title": "Women Techmakers Fellowship",
+      "type": "Scholarship",
+      "department": ["CSE", "IT", "ECE", "EEE"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "Women",
+      "year": ["2nd year", "3rd year", "4th year"],
+      "lastDateToApply": "2025-03-15",
+      "stipend": "4 Lakhs",
+      "eligibility": "Female Students Only",
+      "description": "Google's Women Techmakers program provides scholarships to women studying computer science, computer engineering, or closely related technical fields.",
+      "requirements": [
+        "Strong academic performance",
+        "Leadership qualities",
+        "Active participation in computer science-related activities"
+      ],
+      "applicationLink": "https://www.womentechmakers.com/scholars",
+      "category": "Recommended",
+      "postedDate": "2024-01-12"
+    },
+    {
+      "id": "4",
+      "title": "Microsoft Research Workshop",
+      "type": "Research",
+      "department": ["CSE", "IT"],
+      "courseLevel": ["PG", "PHD"],
+      "exclusive": "All",
+      "year": ["others"],
+      "lastDateToApply": "2025-04-20",
+      "stipend": "Fully Funded",
+      "eligibility": "PG & PhD Students",
+      "description": "Research workshop focusing on artificial intelligence and machine learning, hosted by Microsoft Research India.",
+      "requirements": [
+        "Strong research background",
+        "Publication experience preferred",
+        "Knowledge of AI/ML concepts"
+      ],
+      "applicationLink": "https://microsoft.com/research/workshop",
+      "category": "Fortune 100",
+      "postedDate": "2024-01-14"
+    },
+    {
+      "id": "5",
+      "title": "National Hackathon Challenge",
+      "type": "Hackathon",
+      "department": ["CSE", "IT", "ECE", "EEE", "MECH"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "All",
+      "year": ["1st year", "2nd year", "3rd year", "4th year"],
+      "lastDateToApply": "2025-05-01",
+      "stipend": "Prizes worth 10 Lakhs",
+      "eligibility": "All Students",
+      "description": "National level hackathon focusing on solving real-world problems using technology and innovation.",
+      "requirements": [
+        "Team size: 2-4 members",
+        "Cross-department teams allowed",
+        "Original project ideas"
+      ],
+      "applicationLink": "https://nationalhackathon.in",
+      "category": "Popular",
+      "postedDate": "2024-01-16"
+    },
+    {
+      "id": "6",
+      "title": "Amazon SDE Internship",
+      "type": "Internship",
+      "department": ["CSE", "IT"],
+      "courseLevel": ["UG"],
+      "exclusive": "All",
+      "year": ["3rd year"],
+      "lastDateToApply": "2025-03-30",
+      "stipend": "1.25 Lakhs per month",
+      "eligibility": "3rd Year Students",
+      "description": "6-month internship opportunity with Amazon's retail tech team, working on real-world e-commerce solutions.",
+      "requirements": [
+        "CGPA > 7.0",
+        "Strong problem-solving skills",
+        "Knowledge of web technologies"
+      ],
+      "applicationLink": "https://amazon.jobs/intern",
+      "category": "Fortune 100",
+      "postedDate": "2024-01-16"
+    },
+    {
+      "id": "7",
+      "title": "Civil Engineering Research Grant",
+      "type": "Research",
+      "department": ["CIVIL"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "All",
+      "year": ["3rd year", "4th year"],
+      "lastDateToApply": "2025-04-15",
+      "stipend": "50,000 per month",
+      "eligibility": "3rd & 4th Year Civil Engineering Students",
+      "description": "Research opportunity in sustainable construction materials and methods, funded by the Ministry of Infrastructure.",
+      "requirements": [
+        "Strong academic background in civil engineering",
+        "Interest in sustainable construction",
+        "Basic knowledge of material testing"
+      ],
+      "applicationLink": "https://infrastructure.gov.in/grants",
+      "category": "Latest",
+      "postedDate": "2024-01-16"
+    },
+    {
+      "id": "8",
+      "title": "Intel Hardware Design Challenge",
+      "type": "Hackathon",
+      "department": ["ECE", "EEE"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "All",
+      "year": ["2nd year", "3rd year", "4th year"],
+      "lastDateToApply": "2025-05-20",
+      "stipend": "Prizes up to 5 Lakhs",
+      "eligibility": "ECE/EEE Students",
+      "description": "Hardware design competition focusing on IoT and embedded systems innovation.",
+      "requirements": [
+        "Knowledge of embedded systems",
+        "Hardware design experience",
+        "Team size: 2-3 members"
+      ],
+      "applicationLink": "https://intel.com/design-challenge",
+      "category": "Fortune 100",
+      "postedDate": "2024-01-15"
+    },
+    {
+      "id": "9",
+      "title": "AICTE Smart India Fellowship",
+      "type": "Scholarship",
+      "department": ["CSE", "IT", "ECE", "EEE", "MECH", "CIVIL"],
+      "courseLevel": ["UG"],
+      "exclusive": "All",
+      "year": ["3rd year"],
+      "lastDateToApply": "2025-03-01",
+      "stipend": "12,000 per month",
+      "eligibility": "3rd Year Students with Innovation Projects",
+      "description": "Fellowship program for students working on innovative projects that solve real-world problems.",
+      "requirements": [
+        "Innovative project idea",
+        "Letter of recommendation",
+        "CGPA > 7.5"
+      ],
+      "applicationLink": "https://aicte.gov.in/fellowship",
+      "category": "Recommended",
+      "postedDate": "2024-01-14"
+    },
+    {
+      "id": "10",
+      "title": "Mercedes-Benz Mechanical Design Internship",
+      "type": "Internship",
+      "department": ["MECH"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "All",
+      "year": ["3rd year", "4th year"],
+      "lastDateToApply": "2025-04-30",
+      "stipend": "80,000 per month",
+      "eligibility": "Mechanical Engineering Students",
+      "description": "Internship opportunity in automotive design and manufacturing at Mercedes-Benz Research India.",
+      "requirements": [
+        "Knowledge of CAD/CAM",
+        "Understanding of automotive systems",
+        "Good analytical skills"
+      ],
+      "applicationLink": "https://mercedes-benz.careers/india",
+      "category": "Fortune 100",
+      "postedDate": "2024-01-13"
+    },
+    {
+      "id": "11",
+      "title": "UNESCO Women in Science Fellowship",
+      "type": "Scholarship",
+      "department": ["CSE", "IT", "ECE", "EEE", "MECH", "CIVIL"],
+      "courseLevel": ["PG", "PHD"],
+      "exclusive": "Women",
+      "year": ["others"],
+      "lastDateToApply": "2025-06-30",
+      "stipend": "15 Lakhs",
+      "eligibility": "Female PG/PhD Students",
+      "description": "Fellowship program to support women researchers in STEM fields.",
+      "requirements": [
+        "Research proposal",
+        "Academic excellence",
+        "Letter of recommendation"
+      ],
+      "applicationLink": "https://unesco.org/women-in-science",
+      "category": "Recommended",
+      "postedDate": "2024-01-16"
+    },
+    {
+      "id": "12",
+      "title": "Smart India Hackathon 2025",
+      "type": "Hackathon",
+      "department": ["CSE", "IT", "ECE", "EEE", "MECH", "CIVIL"],
+      "courseLevel": ["UG", "PG"],
+      "exclusive": "All",
+      "year": ["1st year", "2nd year", "3rd year", "4th year"],
+      "lastDateToApply": "2025-05-15",
+      "stipend": "Prizes worth 15 Lakhs",
+      "eligibility": "All Engineering Students",
+      "description": "National level hackathon to solve problems proposed by various government ministries and industries.",
+      "requirements": [
+        "Team size: 6 members",
+        "At least 2 female team members",
+        "One unique solution per team"
+      ],
+      "applicationLink": "https://sih.gov.in/2025",
+      "category": "Latest",
+      "postedDate": "2024-01-16"
+    }
+  ]
+}

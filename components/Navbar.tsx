@@ -94,9 +94,11 @@ const Navbar = () => {
 
         {/* Repeto Button */}
         <button>
+        <Link href="/repeto">
           <div className="w-[117px] h-[45px] bg-[#000000] rounded-3xl text-white font-davidLibre hidden md:flex justify-center items-center text-[15.5px] hover:bg-white drop-shadow-lg hover:text-black">
             Repeto
           </div>
+        </Link>
         </button>
       </div>
 
@@ -159,9 +161,11 @@ const Navbar = () => {
           )}
         </div>
         <button>
+        <Link href="/repeto">
           <div className="w-[117px] h-[45px] bg-[#000000] rounded-3xl text-white font-davidLibre flex justify-center items-center text-[15.5px] hover:bg-white drop-shadow-lg hover:text-black">
-            Repeto
+          Repeto
           </div>
+        </Link>
         </button>
       </div>
     </nav>

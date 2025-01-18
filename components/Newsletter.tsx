@@ -1,4 +1,5 @@
 import React from "react";
+import Link from "next/link";
 
 const Newsletter = () => {
   return (
@@ -29,9 +30,9 @@ const Newsletter = () => {
         </div>
         <p className="text-gray-400 text-sm md:text-base text-center lg:text-left lg:ml-0   w-[320px]">
           By clicking Sign Up you're confirming that you agree with our{" "}
-          <a href="/" className="underline hover:text-gray-300">
+          <Link href="/" className="underline hover:text-gray-300">
             Terms and Conditions
-          </a>
+          </Link>
           .
         </p>
       </div>
